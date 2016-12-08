@@ -1,0 +1,13 @@
+body {
+    background-color: darkgray;
+}
+
+p {
+    width: 60%;
+    padding: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    background-color: gray;
+    font-family: 'Arial';
+}
